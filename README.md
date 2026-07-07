@@ -12,7 +12,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/engOHOOD">
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+    <img height="40" src="https://img.icons8.com/ios-glyphs/60/ffffff/github.png"/>
   </a>
 </p>
 
