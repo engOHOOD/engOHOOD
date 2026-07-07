@@ -1,5 +1,11 @@
 # 👋 Hi, I'm Ohood Albuqami
 
+<p align="left">
+  <img src="assets/pnu_logo.svg" height="70"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/tuwaiq_logo.png" height="90"/>
+</p>
+
 Flutter Developer & Business Analyst — I turn messy manual processes into clean digital workflows 🚀
 
 ## 🌐 Connect
@@ -39,7 +45,8 @@ background: Business requirement gathering, BRDs, Power BI dashboards
 
 ## 📌 Featured Projects
 - 🕋 **[Mobeen](https://github.com/engOHOOD/Mobeen)** — Capstone app for Hajj field researchers: real-time reporting, GPS & Google Maps integration, built with Flutter & AI APIs
-- 🏠 **[capstone-i](https://github.com/engOHOOD/capstone-i)** —  Minimal podcast player app with a built-in audio player, built with Flutter and BLoC/Cubit
+- 🏠 **[capstone-i](https://github.com/engOHOOD/capstone-i)** — Student housing app that automated manual procedures for 1,000+ students
+- 🎧 **[Sard](https://github.com/engOHOOD/Sard)** — Minimal podcast player app with a built-in audio player, built with Flutter and BLoC/Cubit
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=engOHOOD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
